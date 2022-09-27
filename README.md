@@ -171,7 +171,8 @@ print(a,b,loss)
 plt.scatter(x,y)
 plt.plot(x,prediction)
 ```
-![image](https://user-images.githubusercontent.com/114522298/192627674-e17a122b-023f-4b35-9cde-388876b4b7b6.png)
+![image](https://user-images.githubusercontent.com/114522298/192634412-e50fd623-0f53-4770-915b-c73f78ad297f.png)
+
 
 Шаг 6 10000-я итерация, показывающая значения параметров, потери и визуализацию после итерации
 ```py
